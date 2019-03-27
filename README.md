@@ -1,11 +1,11 @@
 # New York City Food Inspection Forecasting
 **Nov, 2018**<br/>
 
-**Problem:**<br/>
+**Classification Problem:**<br/>
 Predict the NYC restaurants which have higher risk to fail the food inspection.<br/>
 
 **Target:**<br/>
-Yes/No - having multiple critical violations
+Yes/No - if the restaurant has multiple critical violations or not
 
 **Datasets:**<br/>
 1) NYC Open Data - DOHMH New York City Restaurant Inspection Results:<br/>
